@@ -35,13 +35,17 @@
   },
   "resources": [
     {"id":{"name":"oTree","path":"objects/oTree/oTree.yy",},},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sTree","path":"sprites/sTree/sTree.yy",},},
     {"id":{"name":"rBack","path":"sprites/rBack/rBack.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
-    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oRoad","path":"objects/oRoad/oRoad.yy",},},
+    {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
+    {"id":{"name":"sRoad","path":"sprites/sRoad/sRoad.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

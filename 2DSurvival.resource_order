@@ -18,10 +18,15 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
+    {"name":"oPlayer","order":6,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
     {"name":"rBack","order":1,"path":"sprites/rBack/rBack.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sFloor","order":3,"path":"sprites/sFloor/sFloor.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"oRoad","order":5,"path":"objects/oRoad/oRoad.yy",},
+    {"name":"oFloor","order":4,"path":"objects/oFloor/oFloor.yy",},
+    {"name":"sRoad","order":4,"path":"sprites/sRoad/sRoad.yy",},
   ],
 }
