@@ -34,6 +34,8 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"oTree","path":"objects/oTree/oTree.yy",},},
+    {"id":{"name":"sTree","path":"sprites/sTree/sTree.yy",},},
     {"id":{"name":"rBack","path":"sprites/rBack/rBack.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},

@@ -17,6 +17,8 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
+    {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
     {"name":"rBack","order":1,"path":"sprites/rBack/rBack.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
