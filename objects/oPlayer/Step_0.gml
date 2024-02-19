@@ -15,3 +15,11 @@ if(place_meeting(x, y + moveY, oWall) or place_meeting(x, y + moveY, oTree) or (
 
 x += moveX;
 y +=moveY;
+
+if(moveX != 0 or moveY != 0){
+	sprite_index = sPlayer_moving;
+	
+	if(moveX != 0)  image_xscale = -sign(moveX);
+} else {
+	sprite_index = sPlayer_idle;
+}
