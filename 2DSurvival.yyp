@@ -39,6 +39,7 @@
     {"id":{"name":"sTree","path":"sprites/sTree/sTree.yy",},},
     {"id":{"name":"rBack","path":"sprites/rBack/rBack.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
+    {"id":{"name":"sStartB","path":"sprites/sStartB/sStartB.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
     {"id":{"name":"sPlayer_moving","path":"sprites/sPlayer_moving/sPlayer_moving.yy",},},
     {"id":{"name":"sPlayer_idle","path":"sprites/sPlayer_idle/sPlayer_idle.yy",},},
@@ -47,10 +48,13 @@
     {"id":{"name":"oRoad","path":"objects/oRoad/oRoad.yy",},},
     {"id":{"name":"oFloor","path":"objects/oFloor/oFloor.yy",},},
     {"id":{"name":"sRoad","path":"sprites/sRoad/sRoad.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"id":{"name":"oStartB","path":"objects/oStartB/oStartB.yy",},},
+    {"id":{"name":"World","path":"rooms/World/World.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"roomId":{"name":"World","path":"rooms/World/World.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

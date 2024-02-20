@@ -22,6 +22,7 @@
     {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
     {"name":"rBack","order":1,"path":"sprites/rBack/rBack.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+    {"name":"sStartB","order":6,"path":"sprites/sStartB/sStartB.yy",},
     {"name":"sFloor","order":3,"path":"sprites/sFloor/sFloor.yy",},
     {"name":"sPlayer_moving","order":5,"path":"sprites/sPlayer_moving/sPlayer_moving.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
@@ -29,5 +30,7 @@
     {"name":"oRoad","order":5,"path":"objects/oRoad/oRoad.yy",},
     {"name":"oFloor","order":4,"path":"objects/oFloor/oFloor.yy",},
     {"name":"sRoad","order":4,"path":"sprites/sRoad/sRoad.yy",},
+    {"name":"Start","order":2,"path":"rooms/Start/Start.yy",},
+    {"name":"oStartB","order":7,"path":"objects/oStartB/oStartB.yy",},
   ],
 }
