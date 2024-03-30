@@ -27,4 +27,8 @@ if(moveX != 0 or moveY != 0){
 
 if(sp){
 	sprite_index = sPlayer_attack;
+	if(place_meeting(x + (moveX * 8), y + (moveY * 8), oTree)){
+		oTree.mask_index = -1;
+		oTree.sprite_index = sEmpty;
+	}
 }
