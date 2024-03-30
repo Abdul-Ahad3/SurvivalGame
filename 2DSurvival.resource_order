@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -16,21 +16,22 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
-    {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
-    {"name":"oPlayer","order":6,"path":"objects/oPlayer/oPlayer.yy",},
-    {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
-    {"name":"rBack","order":1,"path":"sprites/rBack/rBack.yy",},
-    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
-    {"name":"sStartB","order":6,"path":"sprites/sStartB/sStartB.yy",},
-    {"name":"sFloor","order":3,"path":"sprites/sFloor/sFloor.yy",},
-    {"name":"sPlayer_moving","order":5,"path":"sprites/sPlayer_moving/sPlayer_moving.yy",},
+  "ResourceOrderSettings":[
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
-    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
-    {"name":"oRoad","order":5,"path":"objects/oRoad/oRoad.yy",},
     {"name":"oFloor","order":4,"path":"objects/oFloor/oFloor.yy",},
-    {"name":"sRoad","order":4,"path":"sprites/sRoad/sRoad.yy",},
-    {"name":"Start","order":2,"path":"rooms/Start/Start.yy",},
+    {"name":"oPlayer","order":6,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oRoad","order":5,"path":"objects/oRoad/oRoad.yy",},
     {"name":"oStartB","order":7,"path":"objects/oStartB/oStartB.yy",},
+    {"name":"oTree","order":3,"path":"objects/oTree/oTree.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"Start","order":2,"path":"rooms/Start/Start.yy",},
+    {"name":"rBack","order":1,"path":"sprites/rBack/rBack.yy",},
+    {"name":"sFloor","order":3,"path":"sprites/sFloor/sFloor.yy",},
+    {"name":"sPlayer_attack","order":7,"path":"sprites/sPlayer_attack/sPlayer_attack.yy",},
+    {"name":"sPlayer_moving","order":5,"path":"sprites/sPlayer_moving/sPlayer_moving.yy",},
+    {"name":"sRoad","order":4,"path":"sprites/sRoad/sRoad.yy",},
+    {"name":"sStartB","order":6,"path":"sprites/sStartB/sStartB.yy",},
+    {"name":"sTree","order":2,"path":"sprites/sTree/sTree.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }

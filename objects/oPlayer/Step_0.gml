@@ -2,6 +2,7 @@ var r = keyboard_check(vk_right);
 var l = keyboard_check(vk_left);
 var u = keyboard_check(vk_up);
 var d = keyboard_check(vk_down);
+var sp = keyboard_check(vk_space);
 
 var inx = r - l;
 var iny = d - u;
@@ -22,4 +23,8 @@ if(moveX != 0 or moveY != 0){
 	if(moveX != 0)  image_xscale = -sign(moveX);
 } else {
 	sprite_index = sPlayer_idle;
+}
+
+if(sp){
+	sprite_index = sPlayer_attack;
 }
